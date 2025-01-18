@@ -38,8 +38,8 @@ Coffee-Shop-Analysis/
 - Removed duplicate rows.
 - Corrected inconsistencies in date formats.
 - Standardized column names (e.g., "Order Date" → "Date").
-- Checked for missing values and filled them where necessary:
-    - Example: Used average values for missing sales entries.
+- Checked for missing values and filled them where necessary.
+    
 
 ### 2. Data Analysis
 - Added calculated columns for:
@@ -52,7 +52,7 @@ Coffee-Shop-Analysis/
 
 ### 3. Dashboard Creation
 - **Slicers Used:**
-    - Filters for Hour of the Day, Day of the Week, and Month.
+    - Filters for Day of the Week, and Month.
 - **Visualizations Created:**
     - **Bar charts:** Orders per weekday.
     - **Pie chart:** Size-wise distribution of items sold.
@@ -68,10 +68,10 @@ Coffee-Shop-Analysis/
 ---
 
 ## Key Insights
-- **Busiest Hours:** Late mornings and early afternoons have peak sales activity.
-- **Top-Selling Items:** Medium-sized beverages are the most popular.
-- **Weekday Trends:** Sales are highest on weekends, with Fridays being particularly profitable.
-- **Monthly Sales:** Sales see consistent growth during holiday seasons.
+- **Peak Hours:** Orders peak from 7 AM to 10 AM.
+- **Sales Trends:** Saturdays have the lowest sales; Fridays are the busiest.
+- **Popular Product:** Barista Espresso leads in revenue.
+- **Top Locations:** Astorle and Hell's Kitchen top the sales chart.
 
 ---
 
