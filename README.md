@@ -11,23 +11,24 @@ This project focuses on analyzing coffee shop sales data to uncover trends, patt
 Coffee-Shop-Analysis/
 │
 ├── data/
-│   └── coffee_shop_data.xlsx       # Raw dataset for the project.
+│   └── coffee_shop_sales.xlsx     
 │
 ├── dashboard/
-│   ├── coffee_shop_dashboard.xlsx  # Excel file containing the dashboard.
-│   └── dashboard_screenshot.png    # Screenshot of the created dashboard.
+│   ├── coffee_shop_(excel_file).xlsx  
+│   └── coffee_shop_dashboard_screenshot.png    
 │
 ├── steps-formulas/
 │   └── Steps and formulas included in README.md for reference.
 │
 ├── media/
-│   └── dashboard_screenshot.png    # Media assets such as the dashboard screenshot.
-│   # Optionally, add a video demonstrating the slicers.
+│   └── coffee_shop_dashboard_screenshot.png 
+│   └── coffee_shop_demo_video.png 
+│
 │
 ├── license/
-│   └── LICENSE                     # License file (e.g., MIT license).
+│   └── LICENSE                    
 │
-└── README.md                       # Main documentation file for the project.
+└── README.md                     
 
 ```
 ---
