@@ -56,7 +56,7 @@ Coffee-Shop-Analysis/
 - **Visualizations Created:**
     - **Bar charts:** Orders per weekday.
     - **Pie chart:** Size-wise distribution of items sold.
-    - **Line chart:** Monthly sales trends.
+    - **Line chart:** hourly sales trends.
 
 ---
 
@@ -78,10 +78,10 @@ Coffee-Shop-Analysis/
 ## Getting Started
 
 ### Dataset:
-- Open [data/Coffee_Shop_Sales.xlsx](./data/Coffee_Shop_Sales.xlsx) to explore the raw dataset used in the analysis.
+- Open [data/Coffee_Shop_Sales.xlsx](./data) to explore the raw dataset used in the analysis.
 
 ### Dashboard:
-- Open [dashboard/coffee_shop_(excel file).xlsx](./dashboard/coffee_shop_(excel_file).xlsx) to interact with the dashboard. Use slicers for dynamic filtering and visualization.
+- Open [dashboard/coffee_shop_(excel file).xlsx](./dashboard) to interact with the dashboard. Use slicers for dynamic filtering and visualization.
 
 ### Steps and Formulas:
 - Refer to the **Steps and Formulas** section above for details on data cleaning, analysis, and dashboard creation.
