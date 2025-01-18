@@ -29,7 +29,8 @@ Coffee-Shop-Analysis/
 │
 └── README.md                       # Main documentation file for the project.
 
-# Coffee Shop Sales Analysis
+```
+---
 
 ## Steps and Formulas
 
@@ -57,16 +58,22 @@ Coffee-Shop-Analysis/
     - **Pie chart:** Size-wise distribution of items sold.
     - **Line chart:** Monthly sales trends.
 
+---
+
 ## Tools Used
 - Microsoft Excel for data cleaning and analysis.
 - PivotTables and PivotCharts for summarizing data.
 - Slicers for dynamic and interactive filtering.
+
+---
 
 ## Key Insights
 - **Busiest Hours:** Late mornings and early afternoons have peak sales activity.
 - **Top-Selling Items:** Medium-sized beverages are the most popular.
 - **Weekday Trends:** Sales are highest on weekends, with Fridays being particularly profitable.
 - **Monthly Sales:** Sales see consistent growth during holiday seasons.
+
+---
 
 ## Getting Started
 
@@ -78,6 +85,8 @@ Coffee-Shop-Analysis/
 
 ### Steps and Formulas:
 - Refer to the **Steps and Formulas** section above for details on data cleaning, analysis, and dashboard creation.
+
+---
 
 ## License
 This project is licensed under the MIT License. See the `license/` folder for more details.
