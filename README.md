@@ -78,10 +78,10 @@ Coffee-Shop-Analysis/
 ## Getting Started
 
 ### Dataset:
-- Open `data/coffee_shop_data.xlsx` to explore the raw dataset used in the analysis.
+- Open `data/Coffee_Shop_Sales.xlsx` to explore the raw dataset used in the analysis.
 
 ### Dashboard:
-- Open `dashboard/coffee_shop_dashboard.xlsx` to interact with the dashboard. Use slicers for dynamic filtering and visualization.
+- Open `dashboard/coffee_shop_(excel file).xlsx` to interact with the dashboard. Use slicers for dynamic filtering and visualization.
 
 ### Steps and Formulas:
 - Refer to the **Steps and Formulas** section above for details on data cleaning, analysis, and dashboard creation.
