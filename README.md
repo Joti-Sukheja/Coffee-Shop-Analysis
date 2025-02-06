@@ -67,7 +67,9 @@ Coffee-Shop-Analysis/
 - Slicers for dynamic and interactive filtering.
 
 ---
-
+## Here’s a snapshot of the Coffee Shop Analysis dashboard.
+![Coffee shop analysis](dashboard/coffee_shop_dashboard.png)
+---
 ## Key Insights
 - **Peak Hours:** Orders peak from 7 AM to 10 AM.
 - **Sales Trends:** Saturdays have the lowest sales; Fridays are the busiest.
